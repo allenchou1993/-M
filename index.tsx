@@ -1,0 +1,1 @@
+// This file is intentionally left blank to allow the Single-File HTML application in index.html to function independently.
